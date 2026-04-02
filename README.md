@@ -1,7 +1,7 @@
 # 🏫 Interconnected Campus Network
 
 **Course:** Computer Network (CSE405)
-**Student:** Belal Hossain | **ID:** 2023-2-60-010
+## **Student:** Belal Hossain | **ID:** 2023-2-60-010
 **Institution:** East West University, Department of CSE
 **Semester:** Fall 2025
 **Instructor:** Md. Khalid Mahbub Khan
