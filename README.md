@@ -1,6 +1,6 @@
 # 🏫 Interconnected Campus Network
 ---
-**Course:** Computer Network (CSE405)
+**Course:** Computer Network (CSE405) |
 **Student:** Belal Hossain
 **ID:** 2023-2-60-010
 **Institution:** East West University, Department of CSE
