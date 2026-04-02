@@ -4,8 +4,8 @@
 - **Student:** Belal Hossain
 - **ID:** 2023-2-60-010
 - **Institution:** East West University, Department of CSE
-**Semester:** Fall 2025
-**Instructor:** Md. Khalid Mahbub Khan
+- **Semester:** Fall 2025
+- **Instructor:** Md. Khalid Mahbub Khan
 
 ---
 
